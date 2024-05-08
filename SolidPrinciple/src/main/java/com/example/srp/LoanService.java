@@ -14,7 +14,7 @@ public class LoanService {
 
     }
     
-    // made other class as it states for different functionality   
+    // made other class as it states for different functionality we should not do this
     public void sendOtp(String gadget){
         if(gadget.equals("Mobile")){
             // implementation
