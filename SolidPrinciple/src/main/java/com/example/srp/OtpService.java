@@ -7,5 +7,5 @@ public class OtpService {
             // implementation
         }
     }
-    // single functionality states for SRP principle
+    // single functionality states for SRP principle as above example
 }
