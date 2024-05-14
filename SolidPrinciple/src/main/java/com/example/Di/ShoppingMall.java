@@ -24,7 +24,7 @@ public class ShoppingMall {
     //     shpMall.doPurchase(123);
     // }
 
-    // it is  example of Aggregation ->loosely Coupled
+    // 
     private BankCard bankCard;
 
     // Constructor
